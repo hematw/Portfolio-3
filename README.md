@@ -1,1 +1,1 @@
-![Homepage Screenshot](Screenshot (17).png)
+![Homepage Screenshot](screenshot.png)
